@@ -1,7 +1,7 @@
 ### Hi there, I'm Sachin Sheelavant
 
 ## I'm a Student, Gamer and Tech Enthusiast!
-- 🌱 I’m currently learning new technologies 🤣
+- 🌱 I’m currently learning these new technologies: Ansible, Chef, Kubernetes, React
 - ⚡ Hobbies: CSGO, Tinkering around Andoird Custom ROMs, PC Building
 
 ### Connect with me:
