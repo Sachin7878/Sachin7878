@@ -1,9 +1,9 @@
 ### Hi there, I'm Sachin Sheelavant
-
+---
 ## I'm a Student, Gamer and Tech Enthusiast!
 - 🌱 I’m currently learning these new technologies: Ansible, Chef, Kubernetes, React
 - ⚡ Hobbies: CSGO, Tinkering around Andoird Custom ROMs, PC Building
-
+---
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sachin-sheelavant/)
 
@@ -31,4 +31,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
-<br/>
+
+<img align="left" alt="Sachin7878's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sachin7878&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin7878)](https://github.com/anuraghazra/github-readme-stats)
