@@ -7,9 +7,6 @@
 ### Connect with me:
 [<img align="center" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sachin-sheelavant/)
 
-<br/>
-<br/>
-
 ---
 
 ### Languages and Tools:
