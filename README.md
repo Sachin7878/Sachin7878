@@ -35,6 +35,6 @@
 
 ---
 
-<img align="center" alt="Sachin7878's Github Overview Stats" src="https://github.com/Sachin7878/github-stats/blob/master/generated/overview.svg" />
+<img align="left" alt="Sachin7878's Github Overview Stats" src="https://github.com/Sachin7878/github-stats/blob/master/generated/overview.svg" />
 
-<img align="center" alt="Sachin7878's Github Lang Stats" src="https://github.com/Sachin7878/github-stats/blob/master/generated/languages.svg" />
+<img align="right" alt="Sachin7878's Github Lang Stats" src="https://github.com/Sachin7878/github-stats/blob/master/generated/languages.svg" />
