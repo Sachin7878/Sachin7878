@@ -35,6 +35,6 @@
 
 ---
 
-<img align="left" alt="Sachin7878's Github Stats" src="https://github.com/Sachin7878/github-stats/blob/master/generated/overview.svg" />
+<img align="center" alt="Sachin7878's Github Overview Stats" src="https://github.com/Sachin7878/github-stats/blob/master/generated/overview.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin7878)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="Sachin7878's Github Lang Stats" src="https://github.com/Sachin7878/github-stats/blob/master/generated/languages.svg" />
