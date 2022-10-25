@@ -1,8 +1,8 @@
 ### Hi there, I'm Sachin Sheelavant
 ---
-## I'm a Student, Gamer and Tech Enthusiast!
+## Software Engineer, Gamer and Tech Enthusiast!
 - 🌱 I’m currently learning these new technologies: Ansible, Chef, Kubernetes, React
-- ⚡ Hobbies: CSGO, Tinkering around Andoird Custom ROMs, Custom Gaming PC Building
+- ⚡ Hobbies: Playing FIFA, Tinkering around Andoird Custom ROMs, Custom Gaming PC Building
 ---
 ### Connect with me:
 [<img align="center" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sachin-sheelavant/)
